@@ -3,6 +3,8 @@ Boilermake 2014 RESTful API
 
 I designed this RESTful API to be used alongside the boilermake2014-Android application.
 
+RESTful PHP backend using MongoDB to store information.
+
 | Type                  | URL                                            | Method | Parametrs                            | Description                             | Requires Authentification? |
 |-----------------------|------------------------------------------------|--------|--------------------------------------|-----------------------------------------|----------------------------|
 | Account Management    | http://167.88.118.116/register                 | POST   | name, email, password                | Register User.                          | No                         |
